@@ -1,0 +1,3 @@
+[submodule "gardincontroller/usb-connector/USB-C-Connectors"]
+	path = gardincontroller/usb-connector/USB-C-Connectors
+	url = git@github.com:jenschr/USB-C-Connectors.git
